@@ -1,0 +1,33 @@
+{
+  "name": "preact-cli-decss",
+  "version": "0.0.1",
+  "description": "Preact CLI configuration plugin for DeCss",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js",
+    "dev": "mocha --watch index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Download/preact-cli-decss.git"
+  },
+  "keywords": [
+    "preact-cli",
+    "decss",
+    "preact.config.js",
+    "plugin"
+  ],
+  "author": "Stijn de Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Download/preact-cli-decss/issues"
+  },
+  "homepage": "https://github.com/Download/preact-cli-decss#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "ulog": "^1.1.0"
+  }
+}
