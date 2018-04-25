@@ -27,3 +27,17 @@ export default (config, env, helpers) => {
 	return config;
 };
 ```
+
+## Issues
+Add an issue in the [issue tracker](https://github.com/download/ulog/issues)
+to let me know of any problems you find, or questions you may have.
+
+## Credits
+Credits go to:
+* [Sasha Koss](https://github.com/kossnocorp) for giving us [decss](https://github.com/kossnocorp/decss). 
+
+## Copyright
+Copyright 2018 by [Stijn de Witt](https://stijndewitt.com). Some rights reserved.
+
+## License
+Licensed under the [MIT](https://opensource.org/licenses/MIT) Open Source license.
